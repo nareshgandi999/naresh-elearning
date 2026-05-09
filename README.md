@@ -43,3 +43,10 @@ Projects and live demos will be added soon.
 
 📧 nareshgandi999@gmail.com  
 📍 Hyderabad, India
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- GitHub: https://github.com/nareshgandi999
