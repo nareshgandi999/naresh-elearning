@@ -48,5 +48,5 @@ Projects and live demos will be added soon.
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- LinkedIn: www.linkedin.com/in/naresh-goud-789979107
 - GitHub: https://github.com/nareshgandi999
