@@ -35,20 +35,35 @@ eLearning Developer with 9+ years of experience creating interactive learning so
 
 ## Portfolio Projects
 
+### E-Learning Demo
+🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/elearning-demo/story.html)
+
+---
+
 ### Cancer Clinical Care Pathways
 🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cancer-clinical-care-pathways/story.html)
 
-### CORA AI Overview
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cora-ai-overview/story.html)
+---
 
-### E-Learning Demo
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/elearning-demo/story.html)
+### Cost Management Accounting
+🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cost-management-accounting/story.html)
+
+---
+
+### Front Desk Assistant
+🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/front-desk-assistant/story.html)
+
+---
 
 ### How to Bake a Cake
 🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/how-to-bake-a-cake/story.html)
 
+---
+
 ### Sexual Harassment Awareness
 🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/sexual-harassment-awareness/story.html)
+
+---
 
 ### Software Simulation Course
 🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/software-simulation-course/story.html)
