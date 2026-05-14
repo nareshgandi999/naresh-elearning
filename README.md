@@ -2,8 +2,6 @@
   <img src="./imaghes/banner.png.png" alt="Naresh Gandi Banner" width="900">
 </p>
 
-# 🚀 Interactive eLearning Portfolio
-
 Senior eLearning Developer with 9+ years of experience building interactive learning solutions using Articulate Storyline 360, Rise 360, SCORM/xAPI, multimedia tools, and accessibility-focused development practices.
 
 ![Storyline](https://img.shields.io/badge/Storyline-360-red)
