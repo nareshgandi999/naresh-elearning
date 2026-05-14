@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Naresh Gandi Banner" width="100%">
+</p>
+
 # Naresh Gandi
 
 ## Senior eLearning Developer
