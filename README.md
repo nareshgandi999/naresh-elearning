@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./imaghes/banner.png" alt="Naresh Gandi Banner" width="900">
+  <img src="./imaghes/banner.png.png" alt="Naresh Gandi Banner" width="900">
 </p>
 
 # Naresh Gandi
