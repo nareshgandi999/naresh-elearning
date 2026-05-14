@@ -2,86 +2,77 @@
   <img src="./imaghes/banner.png.png" alt="Naresh Gandi Banner" width="900">
 </p>
 
-# Naresh Gandi
+# 🚀 Interactive eLearning Portfolio
 
-## Senior eLearning Developer
+Senior eLearning Developer with 9+ years of experience building interactive learning solutions using Articulate Storyline 360, Rise 360, SCORM/xAPI, multimedia tools, and accessibility-focused development practices.
 
-eLearning Developer with 9+ years of experience creating interactive learning solutions using Articulate Storyline 360, Rise 360, SCORM/xAPI, and multimedia tools.
+![Storyline](https://img.shields.io/badge/Storyline-360-red)
+![Rise](https://img.shields.io/badge/Rise-360-orange)
+![SCORM](https://img.shields.io/badge/SCORM-1.2-blue)
+![xAPI](https://img.shields.io/badge/xAPI-Learning-success)
+![WCAG](https://img.shields.io/badge/WCAG-Accessibility-green)
+![Camtasia](https://img.shields.io/badge/Camtasia-VideoEditing-purple)
 
 ---
 
-## Expertise
+# 🎯 Featured Projects
+
+| Project | Description | Live Demo |
+|---|---|---|
+| Cancer Clinical Care Pathways | Interactive healthcare learning experience with scenario-based training | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cancer-clinical-care-pathways/story.html) |
+| Cost Management Accounting | Interactive accounting and finance learning module | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cost-management-accounting/story.html) |
+| Front Desk Assistant | Software simulation module for customer interaction workflows | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/front-desk-assistant/story.html) |
+| Sexual Harassment Awareness | Compliance training module with interactive assessments | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/sexual-harassment-awareness/story.html) |
+| Software Simulation Course | Interactive guided simulation with system walkthroughs | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/software-simulation-course/story.html) |
+| How to Bake a Cake | Interactive learning demo with multimedia elements | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/how-to-bake-a-cake/story.html) |
+| eLearning Demo | Interactive multimedia eLearning showcase module | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/elearning-demo/story.html) |
+
+---
+
+# 🛠 Authoring Tools
 
 - Articulate Storyline 360
 - Rise 360
-- SCORM / xAPI
-- Accessibility (WCAG)
-- LMS Deployment
-- Scenario-Based Learning
+- Lectora
+
+# 🎨 Multimedia Tools
+
 - Camtasia
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe Animate
-- Lectora
 
----
+# 📚 Learning Standards
 
-## Focus Areas
+- SCORM 1.2 / 2004
+- xAPI
+- WCAG Accessibility
+- LMS Deployment
 
-- Interactive Learning Experiences
+# 🎯 Specializations
+
+- Scenario-Based Learning
+- Software Simulations
+- Compliance Training
+- Healthcare eLearning
 - Accessibility-Focused Development
-- Corporate Training Solutions
-- Multimedia Learning Content
-- Branching Scenarios
-- Assessments & LMS Publishing
+- Interactive Assessments
+- Responsive Learning Experiences
 
 ---
 
-## Portfolio Projects
+# 📈 Experience Highlights
 
-### E-Learning Demo
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/elearning-demo/story.html)
-
----
-
-### Cancer Clinical Care Pathways
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cancer-clinical-care-pathways/story.html)
+- 9+ years in eLearning development
+- Expertise in Storyline 360 and Rise 360
+- Experience with SCORM/xAPI publishing
+- Interactive simulations and branching scenarios
+- Multimedia-focused learning experiences
 
 ---
 
-### Cost Management Accounting
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cost-management-accounting/story.html)
+# 📬 Connect With Me
 
----
-
-### Front Desk Assistant
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/front-desk-assistant/story.html)
-
----
-
-### How to Bake a Cake
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/how-to-bake-a-cake/story.html)
-
----
-
-### Sexual Harassment Awareness
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/sexual-harassment-awareness/story.html)
-
----
-
-### Software Simulation Course
-🔗 [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/software-simulation-course/story.html)
-
----
-
-## Contact
-
-📧 nareshgandi999@gmail.com  
-📍 Hyderabad, India
-
----
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/naresh-goud-789979107
-- GitHub: https://github.com/nareshgandi999
+- 💼 LinkedIn: https://www.linkedin.com/in/naresh-goud-789979107
+- 🌐 Portfolio: https://nareshgandi999.github.io/naresh-elearning/
+- 📧 Email: nareshgandi999@gmail.com
