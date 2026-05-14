@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Deloitte_Storyline_Test_Naresh_gandi" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Deloitte_Storyline_Test_Naresh gandi</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Deloitte_Storyline_Test_Naresh_gandi_ORG">
+    <organization identifier="Deloitte_Storyline_Test_Naresh_gandi_ORG">
+      <title>Deloitte_Storyline_Test_Naresh gandi</title>
+      <item identifier="Deloitte_Storyline_Test_Naresh_gandi_SCO" isvisible="true" identifierref="_Deloitte_Storyline_Test_Naresh_gandi_RES">
+        <title>Deloitte_Storyline_Test_Naresh gandi</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_Deloitte_Storyline_Test_Naresh_gandi_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6pJzoHtcd5n_80_DX2732_DY2732_CX1366_CY786.png" />
+      <file href="mobile/6CjtMKhOSio_80_DX312_DY312_CX156_CY67.png" />
+      <file href="story_content/6NzIAHIRhuR_44100_48_0.mp3" />
+      <file href="mobile/6Nf2RviCsS6_80_DX2732_DY2732_CX1366_CY682.png" />
+      <file href="mobile/6SscIFTwfS7_80_B93_RS_DX946_DY946_CX580_CY707.png" />
+      <file href="story_content/66CCupCLnpR_44100_48_0.mp3" />
+      <file href="mobile/6Zdyu5HBOZN_Y_80_DX2774_DY2774_CX2022_CY191.png" />
+      <file href="mobile/6VkLcl9qvwQ_80_DX132_DY132_CX99_CY85.png" />
+      <file href="mobile/6VkLcl9qvwQ_80_RG_DX132_DY132_CX99_CY85.png" />
+      <file href="mobile/5oMTmAYC3NK_80_DX132_DY132_CX99_CY85.png" />
+      <file href="mobile/5oMTmAYC3NK_80_RG_DX132_DY132_CX99_CY85.png" />
+      <file href="mobile/6Xg0YB0K8MK_80_DX2732_DY2732_CX1366_CY682.png" />
+      <file href="story_content/5fDbBjp87w5_44100_48_0.mp3" />
+      <file href="mobile/5X3Oslm9go3_80_DX432_DY432_CX175_CY216.png" />
+      <file href="mobile/5nt20dfB3QN_80_DX408_DY408_CX175_CY204.png" />
+      <file href="mobile/6GWcf5un8mH_80_DX432_DY432_CX175_CY216.png" />
+      <file href="mobile/61rs6JI8vcw_80_DX408_DY408_CX175_CY204.png" />
+      <file href="mobile/6UE3lPLJ9dW_80_DX432_DY432_CX175_CY216.png" />
+      <file href="mobile/5fZybZDMQO6_80_DX408_DY408_CX175_CY204.png" />
+      <file href="mobile/6RJ1uNxpi1b_80_DX432_DY432_CX175_CY216.png" />
+      <file href="story_content/61MDcyX28bo_44100_48_0.mp3" />
+      <file href="story_content/6UTY0TbDWbw_44100_48_0.mp3" />
+      <file href="story_content/5oOFOGo3Vs2_44100_48_0.mp3" />
+      <file href="story_content/6VluYa1iZMI_44100_48_0.mp3" />
+      <file href="story_content/6CErS0KprYR_44100_48_0.mp3" />
+      <file href="story_content/6GDxERvUgKK_44100_48_0.mp3" />
+      <file href="story_content/6r47bYlUPTD_44100_48_0.mp3" />
+      <file href="mobile/6lLZy0OJ566_80_DX2732_DY2732_CX1366_CY682.png" />
+      <file href="mobile/6hrxHTQEazj_80_R99FFFF_P_0_0_1462_512_DX2732_DY2732_CX1462_CY512.png" />
+      <file href="mobile/6U5mJBpdFc0_80_DX1592_DY1592_CX836_CY104.png" />
+      <file href="mobile/6kLh4ks97JC_80_DX256_DY256_CX128_CY42.png" />
+      <file href="mobile/6kLh4ks97JC_80_RG_DX256_DY256_CX128_CY42.png" />
+      <file href="story_content/5X8594T8obf_44100_48_0.mp3" />
+      <file href="mobile/6RHUd2XjvCF_80_R99FFFF_P_0_0_1462_515_DX2732_DY2732_CX1462_CY515.png" />
+      <file href="mobile/6qHFpP1sxk6_80_DX256_DY256_CX128_CY42.png" />
+      <file href="mobile/6GwSQ18IlaG_80_DX218_DY218_CX102_CY109.png" />
+      <file href="mobile/6drzEfnslni_80_R99FFFF_DX2728_DY2728_CX1364_CY572.png" />
+      <file href="story_content/699SBs3Hn8L_44100_48_0.mp3" />
+      <file href="mobile/63svprQP3jx_80_DX2732_DY2732_CX1366_CY682.png" />
+      <file href="mobile/5bbrqZrEZNW_80_DX772_DY772_CX386_CY157.png" />
+      <file href="mobile/68gENzhEM3j_80_DX770_DY770_CX385_CY157.png" />
+      <file href="story_content/5z1OC9O3TUd_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6B7EYIb5JS4.png" />
+      <file href="mobile/txt__default_6XblDqVuSGz.png" />
+      <file href="mobile/txt__default_6fPn1rA2VhU.png" />
+      <file href="mobile/txt__default_6Nocliz1P4v.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5mUbF5v2X3n.js" />
+      <file href="html5/data/js/5Vty1sZkyDA.js" />
+      <file href="html5/data/js/66okMWigs1n.js" />
+      <file href="html5/data/js/6DeZUQx0Blo.js" />
+      <file href="html5/data/js/6n7dlaOhJHk.js" />
+      <file href="html5/data/js/6qvq6fyYYUy.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
