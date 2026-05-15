@@ -18,7 +18,7 @@ Senior eLearning Developer with 9+ years of experience building interactive lear
 | Project | Description | Live Demo |
 |---|---|---|
 | Cancer Clinical Care Pathways | Interactive healthcare learning experience with scenario-based training | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cancer-clinical-care-pathways/story.html) |
-| Cost Management Accounting | Interactive accounting and finance learning module | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cost-management-accounting/story.html) |
+| Cost Management Accounting | Interactive accounting and finance learning module | [Launch Course](https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=2696f3e0-f52b-42ff-9e29-92243ff2f734) |
 | Front Desk Assistant | Software simulation module for customer interaction workflows | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/front-desk-assistant/story.html) |
 | Sexual Harassment Awareness | Compliance training module with interactive assessments | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/sexual-harassment-awareness/story.html) |
 | Software Simulation Course | Interactive guided simulation with system walkthroughs | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/software-simulation-course/story.html) |
