@@ -73,6 +73,8 @@ Senior eLearning Developer with 9+ years of experience building interactive lear
 
 # 📬 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/naresh-goud-789979107
-- 🌐 Portfolio: https://nareshgandi999.github.io/naresh-elearning/
-- 📧 Email: nareshgandi999@gmail.com
+## 📬 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/naresh-goud-789979107](https://www.linkedin.com/in/naresh-goud-789979107)
+- 🌐 Portfolio: [nareshgandi999.github.io/naresh-elearning](https://nareshgandi999.github.io/naresh-elearning/)
+- 📧 Email: [nareshgandi999@gmail.com](mailto:nareshgandi999@gmail.com)
