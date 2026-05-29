@@ -12,6 +12,37 @@ Senior eLearning Developer with 9+ years of experience building interactive lear
 ![Camtasia](https://img.shields.io/badge/Camtasia-VideoEditing-purple)
 
 ---
+---
+
+# 🌟 Latest Featured Project
+
+## AI-Powered Employee Onboarding Experience
+
+![AI Onboarding Project](projects/ai-onboarding-storyline/cover.png.png)
+
+A modern onboarding experience developed using Articulate Storyline 360 and AI-powered content creation tools.
+
+### Project Highlights
+
+* AI-generated presenter video using HeyGen
+* Interactive flip-card learning activities
+* Scenario-based workplace decision making
+* Modern custom Storyline 360 interface
+* AI-generated visual assets and backgrounds
+
+### Tools Used
+
+Storyline 360 • HeyGen • AI Image Generation • Interactive Learning Design
+
+### Explore the Project
+
+📖 **Project Details:**
+[View Full Case Study](./projects/ai-onboarding-storyline/)
+
+🚀 **Interactive Demo:**
+[Launch Course](https://360.articulate.com/review/content/5c9bc88b-e947-4987-9a34-5d22e380347b/review)
+
+---
 
 # 🎯 Featured Projects
 
