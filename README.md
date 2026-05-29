@@ -17,6 +17,7 @@ Senior eLearning Developer with 9+ years of experience building interactive lear
 
 | Project | Description | Live Demo |
 |---|---|---|
+| AI-Powered Employee Onboarding Experience | Modern onboarding module featuring an AI-generated presenter, interactive flip cards, company policy exploration, scenario-based learning, and custom Storyline 360 UI design. | [Launch Course](https://360.articulate.com/review/content/5c9bc88b-e947-4987-9a34-5d22e380347b/review) |
 | Gamified Service Portfolio Experience | Custom gamified eLearning module developed in Articulate Storyline 360 with dynamic timer logic, skill points, hint-based interactions, and futuristic custom GUI design. | [Launch Course](https://360.articulate.com/review/content/9cf1b324-e79c-427b-918d-594dfbcb6f0a/review) |
 | eLearning Demo | Interactive multimedia eLearning showcase module | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/elearning-demo/story.html) |
 | Cancer Clinical Care Pathways | Interactive healthcare learning experience with scenario-based training | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cancer-clinical-care-pathways/story.html) |
