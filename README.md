@@ -2,14 +2,9 @@
   <img src="./imaghes/banner.png.png" alt="Naresh Gandi Banner" width="900">
 </p>
 
-Senior eLearning Developer with 9+ years of experience building interactive learning solutions using Articulate Storyline 360, Rise 360, SCORM/xAPI, multimedia tools, and accessibility-focused development practices.
+Senior eLearning Developer with 9+ years of experience creating engaging digital learning solutions by combining Articulate Storyline 360, Rise 360, AI-powered tools, interactive media, SCORM/xAPI standards, and modern learning technologies.
 
-![Storyline](https://img.shields.io/badge/Storyline-360-red)
-![Rise](https://img.shields.io/badge/Rise-360-orange)
-![SCORM](https://img.shields.io/badge/SCORM-1.2-blue)
-![xAPI](https://img.shields.io/badge/xAPI-Learning-success)
-![WCAG](https://img.shields.io/badge/WCAG-Accessibility-green)
-![Camtasia](https://img.shields.io/badge/Camtasia-VideoEditing-purple)
+Storyline 360 | Rise 360 | Generative AI | HeyGen | ChatGPT | SCORM | xAPI | WCAG | Camtasia | Video Editing
 
 ---
 ---
