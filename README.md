@@ -4,7 +4,15 @@
 
 Senior eLearning Developer with 9+ years of experience creating engaging digital learning solutions by combining Articulate Storyline 360, Rise 360, AI-powered tools, interactive media, SCORM/xAPI standards, and modern learning technologies.
 
-Storyline 360 | Rise 360 | Generative AI | HeyGen | ChatGPT | SCORM | xAPI | WCAG | Camtasia | Video Editing
+![Storyline 360](https://img.shields.io/badge/Storyline-360-E34F26?style=for-the-badge)
+![Rise 360](https://img.shields.io/badge/Rise-360-F28C28?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative-AI-7B61FF?style=for-the-badge)
+![HeyGen](https://img.shields.io/badge/HeyGen-AI-00C2A8?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge)
+![SCORM/xAPI](https://img.shields.io/badge/SCORM-xAPI-0052CC?style=for-the-badge)
+![WCAG](https://img.shields.io/badge/WCAG-Accessibility-84CC16?style=for-the-badge)
+![Camtasia](https://img.shields.io/badge/Camtasia-6DB33F?style=for-the-badge)
+
 
 ---
 ---
