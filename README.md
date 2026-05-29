@@ -108,8 +108,6 @@ Storyline 360 • HeyGen • AI Image Generation • Interactive Learning Design
 
 # 📬 Connect With Me
 
-## 📬 Connect With Me
-
 - 💼 LinkedIn: [linkedin.com/in/naresh-goud-789979107](https://www.linkedin.com/in/naresh-goud-789979107)
 - 🌐 Portfolio: [nareshgandi999.github.io/naresh-elearning](https://nareshgandi999.github.io/naresh-elearning/)
 - 📧 Email: [nareshgandi999@gmail.com](mailto:nareshgandi999@gmail.com)
