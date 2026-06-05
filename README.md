@@ -53,7 +53,7 @@ Storyline 360 • HeyGen • AI Image Generation • Interactive Learning Design
 |---|---|---|
 | AI-Powered Employee Onboarding Experience | Modern onboarding module featuring an AI-generated presenter, interactive flip cards, company policy exploration, scenario-based learning, and custom Storyline 360 UI design. | [Launch Course](https://360.articulate.com/review/content/5c9bc88b-e947-4987-9a34-5d22e380347b/review) |
 | Gamified Service Portfolio Experience | Custom gamified eLearning module developed in Articulate Storyline 360 with dynamic timer logic, skill points, hint-based interactions, and futuristic custom GUI design. | [Launch Course](https://360.articulate.com/review/content/9cf1b324-e79c-427b-918d-594dfbcb6f0a/review) |
-| eLearning Demo | Interactive multimedia eLearning showcase module | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/elearning-demo/story.html) |
+| eLearning Demo | Interactive multimedia eLearning showcase module | [Launch Course](https://360.articulate.com/review/content/cecd2484-3904-4dbc-8e20-5f75bafdf048/review) |
 | Cancer Clinical Care Pathways | Interactive healthcare learning experience with scenario-based training | [Launch Course](https://nareshgandi999.github.io/naresh-elearning/projects/cancer-clinical-care-pathways/story.html) |
 | Cost Management Accounting | Interactive accounting and finance learning module | [Launch Course](https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=2696f3e0-f52b-42ff-9e29-92243ff2f734) |
 | Front Desk Assistant | Software simulation module for customer interaction workflows | [Launch Course](https://app.cloud.scorm.com/sc/InvitationConfirmEmail?publicInvitationId=1d2d7b55-65e9-449e-87d9-f80cb0d4619a) |
