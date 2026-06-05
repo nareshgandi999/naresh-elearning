@@ -17,7 +17,7 @@ Senior eLearning Developer with 9+ years of experience creating engaging digital
 ---
 ---
 
-# 🌟 Latest Featured Project
+# Latest Featured Project
 
 ## AI-Powered Employee Onboarding Experience
 
@@ -64,7 +64,7 @@ Storyline 360 • HeyGen • AI Image Generation • Interactive Learning Design
 
 ---
 
-# 🛠 Authoring Tools
+# Authoring Tools
 
 - Articulate Storyline 360
 - Rise 360
